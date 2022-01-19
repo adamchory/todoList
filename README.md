@@ -6,6 +6,7 @@ Click on any task that has been completed and it'll disappear. Add any to do ite
 
 ## Roadmap of Future Impovements
 An awesome improvement to this exercise would be to cross out the tasks once they're completed rather than them disappearing. This would show the accomplishments for the day. Including more color and character through the styles.css file will allow for a more unique environment that is more special to me.
+Another improvement would be coloring/bolding tasks that absolutely need to get done that day, while graying and italicizing those that are of lower priority.
 
 ## License Information
 This exercise was created as an assignment for the MIT xPRO Full Stack Web Development program. 
